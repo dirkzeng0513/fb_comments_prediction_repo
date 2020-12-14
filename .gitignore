@@ -1,0 +1,19 @@
+## ignore following files when mking git commits
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.zip
+*.gz
+*.7z
+*.txt
+*.rds
+*.csv
+*.xls
+*.feather
+*.pickle
+*.pkl
+venv/
+Dataset/
